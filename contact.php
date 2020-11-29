@@ -3,11 +3,8 @@
         <div class="citation-title contact-title">
             <h2><span>お問い合わせフォーム</span></h2>
         </div>
-
-
         <section class="citation-block">
             <div class="citation-block-inner col-sm-12">
-<!--                <form action="contact-result.php" method="post" enctype="multipart/form-data">-->
                 <form action="contact-confirm.php" method="post" enctype="multipart/form-data">
                     <div class="citation-block-ex">
                         <div class="cbi-left col-sm-5">
@@ -29,18 +26,12 @@
                     
                     <div class="citation-block-ex">
                         <div class="cbi-left col-sm-5">
-<!--                            <input type="text" name="c_content" placeholder="お問い合わせ内容">-->
                             <textarea class="input" id="c_content" name="c_content" rows="7" placeholder="お問い合わせ内容"></textarea>
-                            
-                            
                         </div>
                         <div class="cbi-right col-sm-7">
                             ※必須
                         </div>
                     </div>
-
-
-<!--                    <input type="radio" name="media" checked="checked" value="1" style="display:none;">-->
 
                     <div class="citation-block-ex">
                         <div class="resulting">
