@@ -8,6 +8,7 @@
     <script type="text/javascript" src="js/bootstrap.js"></script>
     <link rel="stylesheet" href="css/style.css" type="text/css">
     <link rel="stylesheet" href="css/reset.css" type="text/css">
+    <meta name="robots" content="noindex">
 
     <!--      <link href="https://fonts.googleapis.com/css?family=Sawarabi+Mincho" rel="stylesheet">-->
     <!--      font-family: "Sawarabi Mincho";-->
