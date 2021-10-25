@@ -6,7 +6,7 @@
         <div class="citatoin-head citatoin-head-ac" id="book01-1">
             <div class="citatoin-head-inner">
                 <h3 class="citation-small-title">作者が一人の場合</h3>
-                <p class="citation-example">例&#058; 岡本大樹 (1997). 中年からのアイデンティティ あおぞら出版</p>
+                <p class="citation-example">例&#058; 山崎康太 (1989). 学校現場の教本 みなみ出版</p>
             </div>
         </div>
 
@@ -74,7 +74,7 @@
         <div class="citatoin-head">
             <div class="citatoin-head-inner" id="book01-2">
                 <h3 class="citation-small-title">作者が複数人いる場合</h3>
-                <p class="citation-example">例&#058; 井出祥子・荻野綱男・川﨑晶子・生田少子 (1986) 『日本とアメリカ人の敬語行動 ― 大学生の場合』南雲堂</p>
+                <p class="citation-example">例&#058; 佐々木綾子・樋口裕也・田島信也 (2001) 『世界の不思議スポット』大取出版</p>
             </div>
         </div>
 
@@ -143,8 +143,7 @@
         <div class="citatoin-head">
             <div class="citatoin-head-inner" id="book01-3">
                 <h3 class="citation-small-title">外国人作者・翻訳の場合</h3>
-                <p class="citation-example">例&#058; ゴッフマン, E（1986）『儀礼としての相互行為―対面行動
-                    の社会学』（広瀬英彦・安江孝司訳）法政大学出版局</p>
+                <p class="citation-example">例&#058; トーマス, K（1988）『地中海の発展と人々の生活』（大崎輝・島田幸喜訳）国見出版</p>
             </div>
         </div>
 
@@ -218,7 +217,7 @@
         <div class="citatoin-head">
             <div class="citatoin-head-inner" id="book01-4">
                 <h3 class="citation-small-title">論文から出典</h3>
-                <p class="citation-example">例&#058; 寺村秀夫 (1993)「表現の比較」について」『寺村秀夫論文集 II ― 言語学・日本語教育編』 pp. 185-212. くろしお出版</p>
+                <p class="citation-example">例&#058; 松本由美 (2010)「日本神話に関する考察」『古事記から読み解く論文集』 pp. 101-129. 大取出版</p>
             </div>
         </div>
 
@@ -303,8 +302,8 @@
         <div class="citatoin-head">
             <div class="citatoin-head-inner" id="book01-5">
                 <h3 class="citation-small-title">本に掲載された論文の場合</h3>
-                <p class="citation-example">例&#058; 吉岡潤 (2007)「多民族国家からポーランド人国家へ」
-                    渡辺克義編『ポーランド学を学ぶ人のために』世界思想社</p>
+                <p class="citation-example">例&#058; 堂本輝 (1999)「日本心理学の研究論文集」
+                    松崎加奈子編『日本文化と心理学』みこし社</p>
             </div>
         </div>
 

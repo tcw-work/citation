@@ -71,7 +71,7 @@ if(empty ($_POST['c_name']) or empty ($_POST['c_address']) or empty ($_POST['c_c
                     <input type="hidden" value="<?php echo $c_name; ?>" name="c_name"/>
                     <input type="hidden" value="<?php echo $c_address; ?>" name="c_address"/>
                     <input type="hidden" value="<?php echo $c_content; ?>" name="c_content"/>
-                    <input type="button" onclick="history.back()" value="戻る">
+                    <input type="button" onclick="history.back()" value="戻る" class="result-input result-input01">
                     <input type="button" onclick="submit();" value="送信" class="result-input" name="sub">
                     
                 </div>

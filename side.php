@@ -19,11 +19,11 @@
                             <h3 class="side-zone-title side-zone-title01"><a href="book.html">本から参照</a></h3>
                         </div>
                         <ul>
-                            <li><a href="index.html#book01-1">著書から出典</a></li>
-                            <li><a href="index.html#book01-2">作者が複数の場合</a></li>
-                            <li><a href="index.html#book01-3">外国人作者・翻訳の出典</a></li>
-                            <li><a href="index.html#book01-4">論文から出典</a></li>
-                            <li><a href="index.html#book01-5">本に掲載された論文を出典</a></li>
+                            <li><a href="index.html#book01-1" class="smooth">著書から出典</a></li>
+                            <li><a href="index.html#book01-2" class="smooth">作者が複数の場合</a></li>
+                            <li><a href="index.html#book01-3" class="smooth">外国人作者・翻訳の出典</a></li>
+                            <li><a href="index.html#book01-4" class="smooth">論文から出典</a></li>
+                            <li><a href="index.html#book01-5" class="smooth">本に掲載された論文を出典</a></li>
 <!--                            <li><a href="index.html#book01-6">自分の文章に引用を出典</a></li>-->
 <!--
                             <li><//?php

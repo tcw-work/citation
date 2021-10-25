@@ -31,22 +31,39 @@ $returnPath = '-f'.'m.tomizawa821@gmail.com';
 $mailsend = mb_send_mail($mail_to, $mail_subject, $mail_body, $mail_header, $returnPath);
 }
 
-if($mailsend == true) {
-    echo '<p>メールを送信しました。</p>';
-    echo '<form method="post" action="contact.php">';
-    echo '<input type="submit" name="backbtn" value="前のページへ戻る">';
-    echo '</form>';
-} else {
-    echo '<p>メール送信でエラーが発生しました。</p>';
-    echo '<form method="post" action="contact.php">';
-    echo '<input type="submit" name="backbtn" value="前のページへ戻る">';
-    echo '</form>';
-}
+
 ?>
 
 
-<span class="contact-right"><?php print $c_name;?></span>
-<li><span class="contact-left">※メールアドレス</span><br>
-    <span class="contact-right"><?php print $c_address?></span></li>
-<li><span class="contact-left">※お問い合わせ内容</span><br>
-    <span class="contact-right"><?php print $c_content;?></span></li>
+<?php include('header.php');?>
+<section class="citation result-top col-sm-12">
+    <div class="citation-inner">
+        <div class="citation-title">
+            <h2><span>送信完了</span></h2>
+        </div>
+
+        <div class="result-block">
+            <div class="result-block-inner col-sm-12">
+                <p>
+                    <span class="resuilt-in">
+                        <?php
+                        if($mailsend == true) {
+                            echo '<p>メールを送信しました。</p>';
+                            echo '<form method="post" action="contact.php">';
+                            echo '<a href="/" class="result-input result-input-last">トップへ戻る</a>';
+                            echo '</form>';
+                        } else {
+                            echo '<p>メール送信でエラーが発生しました。</p>';
+                            echo '<form method="post" action="contact.php">';
+                            echo '<input type="button" onclick="history.go(-2)" value="入力画面へ戻る">';
+                            echo '</form>';
+                        }
+                        ?>
+                    </span>
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
+<?php include('side.php');?>
+<?php include('footer.php');?>

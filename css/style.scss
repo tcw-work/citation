@@ -241,10 +241,11 @@
                                 }
 
                                 .citation-example {
-                                    font-size: 15px;
+                                    font-size: 17px;
                                     font-weight: 500;
                                     font-style: italic;
                                     word-break: break-all;
+                                    letter-spacing: 1px;
                                 }
                             }
                             }
@@ -401,6 +402,7 @@
                         background-color: #FBF3CF;
                         padding: 20px 15px;
                         box-shadow: 0px 9px 7px -3px rgba(0, 0, 0, 0.3);
+                        color: #5d5d5d;
                     }
                     
                     
@@ -618,6 +620,42 @@
     }
 }
 
+.re-box {
+//    width: 56%;
+//    margin: 0 auto;
+//    display: flex;
+//    justify-content: space-between;
+}
+.result-input {
+    border: none;
+    color: #000;
+    background-color: #fff;
+    padding: 8px 0px;
+    font-size: 22px;
+    width: 200px;
+    transition: 0.3s;
+    border: 1px solid #000;
+
+    max-width: 200px;
+    width: 46%;
+}
+.result-input02 {
+    margin-left: 15px;
+}
+.result-input:hover {
+    background-color: #000;
+    color: #F8E221;
+}
+.result-input-last {
+    background-color: #FBF3CF;
+    padding: 8px 30px;
+    width: 100%;
+    color: #5d5d5d;
+}
+.result-input-last:hover {
+    text-decoration: none;
+}
+
 
 
 @media screen and (max-width:768px) {
@@ -699,6 +737,9 @@
                                             .citation-small-title {
                                                 font-size: 20px;
                                             }
+                                            .citation-example {
+                                                font-size: 16px;
+                                            }
                                         }
                                     }
                                     
@@ -762,6 +803,14 @@
                 }   
             }
         }
+    }
+    
+    .result-input {
+        width: 48%;
+        font-size: 19px;
+    }
+    .result-input02 {
+        margin-left: 2%;
     }
 }
 

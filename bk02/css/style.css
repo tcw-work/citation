@@ -1,0 +1,502 @@
+.container {
+  padding: 0px; }
+
+.col-md-12 {
+  padding: 0px; }
+
+.col-sm-4 {
+  padding: 0px; }
+
+.col-sm-5 {
+  padding: 0px; }
+
+.col-sm-6 {
+  padding: 0px; }
+
+.col-sm-7 {
+  padding: 0px; }
+
+.col-sm-1, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-10, .col-sm-11, .col-sm-12 {
+  float: none; }
+
+.row {
+  margin-right: 0px;
+  margin-left: 0px;
+  line-height: 1.6; }
+
+.is-sp-540 {
+  display: none; }
+
+.wrap {
+  font-family: 'Noto Serif JP', serif; }
+  .wrap .wrap-inner {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto; }
+    .wrap .wrap-inner header {
+      margin-bottom: 20px; }
+      .wrap .wrap-inner header .container {
+        width: 100%;
+        max-width: 1200px; }
+        .wrap .wrap-inner header .container .header-inner {
+          background-color: #F8E221;
+          border: 1px solid #000; }
+          .wrap .wrap-inner header .container .header-inner .row {
+            font-weight: bold; }
+            .wrap .wrap-inner header .container .header-inner .row .header-top {
+              text-align: center;
+              padding-top: 30px;
+              padding-bottom: 35px;
+              font-size: 34px; }
+              .wrap .wrap-inner header .container .header-inner .row .header-top a {
+                color: #000; }
+              .wrap .wrap-inner header .container .header-inner .row .header-top a:hover {
+                text-decoration: none; }
+            .wrap .wrap-inner header .container .header-inner .row .header-list {
+              padding-bottom: 30px;
+              overflow: hidden; }
+              .wrap .wrap-inner header .container .header-inner .row .header-list ul li {
+                float: left;
+                text-align: center; }
+                .wrap .wrap-inner header .container .header-inner .row .header-list ul li a {
+                  font-size: 17px;
+                  color: #000; }
+    .wrap .wrap-inner main {
+      overflow: hidden; }
+      .wrap .wrap-inner main .main-part {
+        width: 73%;
+        max-width: 870px;
+        float: left; }
+        .wrap .wrap-inner main .main-part .box-content {
+          border: 1px solid #000;
+          font-weight: bold; }
+          .wrap .wrap-inner main .main-part .box-content .container {
+            width: 100%;
+            max-width: 870px;
+            padding-top: 20px;
+            padding-bottom: 40px; }
+            .wrap .wrap-inner main .main-part .box-content .container .box-zone {
+              overflow: hidden;
+              padding-top: 30px; }
+              .wrap .wrap-inner main .main-part .box-content .container .box-zone .box-title {
+                padding-bottom: 60px;
+                text-align: center;
+                font-size: 32px; }
+              .wrap .wrap-inner main .main-part .box-content .container .box-zone .box-block .box-block-inner {
+                border: 1px solid #000;
+                margin-bottom: 40px;
+                width: 100%;
+                max-width: 385px;
+                font-weight: 500; }
+                .wrap .wrap-inner main .main-part .box-content .container .box-zone .box-block .box-block-inner .box-heading {
+                  background-color: #F8E221;
+                  font-size: 23px;
+                  border-bottom: 1px solid #000;
+                  padding: 20px 15px 13px 15px;
+                  text-align: center; }
+                .wrap .wrap-inner main .main-part .box-content .container .box-zone .box-block .box-block-inner a {
+                  color: #000; }
+                  .wrap .wrap-inner main .main-part .box-content .container .box-zone .box-block .box-block-inner a .box-description {
+                    font-size: 16px;
+                    border-top: 1px solid #000;
+                    padding: 20px 15px; }
+                  .wrap .wrap-inner main .main-part .box-content .container .box-zone .box-block .box-block-inner a img {
+                    width: 100%;
+                    display: block; }
+              .wrap .wrap-inner main .main-part .box-content .container .box-zone .box-block .box-bottom {
+                margin-bottom: 0px; }
+              .wrap .wrap-inner main .main-part .box-content .container .box-zone .col-sm-12 {
+                display: flex;
+                justify-content: space-around; }
+            .wrap .wrap-inner main .main-part .box-content .container .citation {
+              width: 97%;
+              max-width: 840px;
+              margin: 0 auto;
+              float: none;
+              margin-top: 80px; }
+              .wrap .wrap-inner main .main-part .box-content .container .citation .citation-inner .citation-title {
+                margin-bottom: 38px;
+                position: relative; }
+                .wrap .wrap-inner main .main-part .box-content .container .citation .citation-inner .citation-title h2 {
+                  font-size: 29px;
+                  text-align: center;
+                  font-weight: 700; }
+                  .wrap .wrap-inner main .main-part .box-content .container .citation .citation-inner .citation-title h2 span {
+                    display: inline-block; }
+                  .wrap .wrap-inner main .main-part .box-content .container .citation .citation-inner .citation-title h2 span:after {
+                    content: "";
+                    border-bottom: 2px solid #000;
+                    width: 100%;
+                    display: block;
+                    margin: 0 auto;
+                    padding-top: 4px; }
+              .wrap .wrap-inner main .main-part .box-content .container .citation .citation-inner .contact-title {
+                margin-bottom: 68px; }
+              .wrap .wrap-inner main .main-part .box-content .container .citation .citation-inner .result-block .result-block-inner {
+                text-align: center; }
+                .wrap .wrap-inner main .main-part .box-content .container .citation .citation-inner .result-block .result-block-inner p {
+                  text-align: center;
+                  max-width: 100%;
+                  margin: 0 auto 50px;
+                  line-height: 1.6;
+                  display: block;
+                  width: max-content; }
+                  .wrap .wrap-inner main .main-part .box-content .container .citation .citation-inner .result-block .result-block-inner p .result-icon {
+                    display: table-cell;
+                    vertical-align: middle;
+                    width: 39px;
+                    padding-right: 20px; }
+                    .wrap .wrap-inner main .main-part .box-content .container .citation .citation-inner .result-block .result-block-inner p .result-icon img {
+                      width: 100%; }
+                  .wrap .wrap-inner main .main-part .box-content .container .citation .citation-inner .result-block .result-block-inner p .resuilt-in {
+                    padding-bottom: 10px;
+                    font-size: 18px;
+                    display: table-cell;
+                    vertical-align: middle;
+                    border-bottom: 3px solid #000; }
+              .wrap .wrap-inner main .main-part .box-content .container .citation .citation-inner .citatoin-head {
+                background-color: #F8E221;
+                border: 1px solid #000;
+                border-bottom: 4px solid #000;
+                margin-bottom: 50px;
+                position: relative;
+                box-shadow: 0px 9px 7px -3px rgba(0, 0, 0, 0.3); }
+                .wrap .wrap-inner main .main-part .box-content .container .citation .citation-inner .citatoin-head .citatoin-head-inner {
+                  padding: 18px 55px;
+                  cursor: pointer; }
+                  .wrap .wrap-inner main .main-part .box-content .container .citation .citation-inner .citatoin-head .citatoin-head-inner .citation-small-title {
+                    font-size: 23px;
+                    margin-bottom: 7px;
+                    font-weight: 600; }
+                  .wrap .wrap-inner main .main-part .box-content .container .citation .citation-inner .citatoin-head .citatoin-head-inner .citation-example {
+                    font-size: 17px;
+                    font-weight: 500;
+                    font-style: italic;
+                    word-break: break-all;
+                    letter-spacing: 1px; }
+              .wrap .wrap-inner main .main-part .box-content .container .citation .citation-inner .citatoin-head:before {
+                content: "";
+                border: 1px solid #000;
+                position: absolute;
+                height: 23px;
+                left: 24px;
+                top: 24px; }
+              .wrap .wrap-inner main .main-part .box-content .container .citation .citation-inner .citatoin-head:after {
+                content: "";
+                border: 1px solid #000;
+                position: absolute;
+                width: 23px;
+                left: 14px;
+                top: 34px; }
+              .wrap .wrap-inner main .main-part .box-content .container .citation .citation-inner .citatoin-head-ac {
+                color: #F8E221;
+                background-color: #181818;
+                border: 2px solid #000; }
+                .wrap .wrap-inner main .main-part .box-content .container .citation .citation-inner .citatoin-head-ac .citatoin-head-inner {
+                  border: 4px solid #F8E221; }
+              .wrap .wrap-inner main .main-part .box-content .container .citation .citation-inner .citatoin-head-ac:before {
+                content: "";
+                border: 0px solid #000;
+                position: absolute;
+                width: 0px;
+                left: 0px;
+                top: 0px; }
+              .wrap .wrap-inner main .main-part .box-content .container .citation .citation-inner .citatoin-head-ac:after {
+                content: "";
+                border: 2px solid #F8E221;
+                position: absolute;
+                width: 23px;
+                left: 14px;
+                top: 33px; }
+              .wrap .wrap-inner main .main-part .box-content .container .citation .citation-inner .citation-block .citation-block-inner {
+                padding: 0px; }
+                .wrap .wrap-inner main .main-part .box-content .container .citation .citation-inner .citation-block .citation-block-inner form {
+                  overflow: hidden;
+                  display: table;
+                  width: 100%; }
+                  .wrap .wrap-inner main .main-part .box-content .container .citation .citation-inner .citation-block .citation-block-inner form .citation-block-ex {
+                    margin-bottom: 45px;
+                    overflow: hidden; }
+                    .wrap .wrap-inner main .main-part .box-content .container .citation .citation-inner .citation-block .citation-block-inner form .citation-block-ex .cbi-left {
+                      display: table-cell;
+                      width: 40%; }
+                      .wrap .wrap-inner main .main-part .box-content .container .citation .citation-inner .citation-block .citation-block-inner form .citation-block-ex .cbi-left input {
+                        padding: 10px 10px 8px 10px;
+                        border: 1px solid #000;
+                        color: #000;
+                        width: 323px;
+                        font-weight: normal;
+                        letter-spacing: 0.7px; }
+                      .wrap .wrap-inner main .main-part .box-content .container .citation .citation-inner .citation-block .citation-block-inner form .citation-block-ex .cbi-left textarea {
+                        padding: 10px 10px 8px 10px;
+                        border: 1px solid #000;
+                        color: #000;
+                        width: 323px;
+                        font-weight: normal;
+                        letter-spacing: 0.7px; }
+                    .wrap .wrap-inner main .main-part .box-content .container .citation .citation-inner .citation-block .citation-block-inner form .citation-block-ex .maltiple-area {
+                      display: table-cell; }
+                      .wrap .wrap-inner main .main-part .box-content .container .citation .citation-inner .citation-block .citation-block-inner form .citation-block-ex .maltiple-area .maltiple-auther:not(:last-child) {
+                        margin-bottom: 20px; }
+                    .wrap .wrap-inner main .main-part .box-content .container .citation .citation-inner .citation-block .citation-block-inner form .citation-block-ex .cbi-right {
+                      padding-left: 30px;
+                      display: table-cell;
+                      width: 80%;
+                      font-weight: normal; }
+                    .wrap .wrap-inner main .main-part .box-content .container .citation .citation-inner .citation-block .citation-block-inner form .citation-block-ex .resulting p {
+                      margin: 0px 0px 40px 0px;
+                      font-weight: normal; }
+                    .wrap .wrap-inner main .main-part .box-content .container .citation .citation-inner .citation-block .citation-block-inner form .citation-block-ex .citation-btn {
+                      text-align: center;
+                      margin-bottom: 30px; }
+                      .wrap .wrap-inner main .main-part .box-content .container .citation .citation-inner .citation-block .citation-block-inner form .citation-block-ex .citation-btn button {
+                        background-color: #f0ad4e;
+                        padding: 0px;
+                        border-color: #000;
+                        transition: 0.3s; }
+                        .wrap .wrap-inner main .main-part .box-content .container .citation .citation-inner .citation-block .citation-block-inner form .citation-block-ex .citation-btn button input {
+                          border: none;
+                          color: #000;
+                          background-color: #fff;
+                          padding: 8px 0px;
+                          font-size: 22px;
+                          width: 200px;
+                          transition: 0.3s; }
+                    .wrap .wrap-inner main .main-part .box-content .container .citation .citation-inner .citation-block .citation-block-inner form .citation-block-ex .citation-btn:hover button:hover {
+                      background-color: #000;
+                      color: #F8E221; }
+                      .wrap .wrap-inner main .main-part .box-content .container .citation .citation-inner .citation-block .citation-block-inner form .citation-block-ex .citation-btn:hover button:hover input:hover {
+                        background-color: #000;
+                        color: #F8E221; }
+            .wrap .wrap-inner main .main-part .box-content .container .result-top {
+              margin-top: 30px;
+              background-color: #FBF3CF;
+              padding: 20px 15px;
+              box-shadow: 0px 9px 7px -3px rgba(0, 0, 0, 0.3);
+              color: #5d5d5d; }
+            .wrap .wrap-inner main .main-part .box-content .container .citation .citation-inner .citation-block .citation-block-ex .cbi-right {
+              vertical-align: top; }
+            .wrap .wrap-inner main .main-part .box-content .container .contact-top {
+              background-color: #fff;
+              box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0); }
+              .wrap .wrap-inner main .main-part .box-content .container .contact-top .contact-block-inner ul li {
+                padding: 10px 10px 8px 10px;
+                border: 1px solid #000;
+                margin-bottom: 45px;
+                text-align: left;
+                font-weight: normal; }
+                .wrap .wrap-inner main .main-part .box-content .container .contact-top .contact-block-inner ul li span {
+                  display: inline-block;
+                  word-break: break-all; }
+                .wrap .wrap-inner main .main-part .box-content .container .contact-top .contact-block-inner ul li .contact-left {
+                  padding-bottom: 10px;
+                  color: #828282; }
+                .wrap .wrap-inner main .main-part .box-content .container .contact-top .contact-block-inner ul li .contact-right {
+                  margin-left: 16px;
+                  font-size: 17px;
+                  padding-bottom: 10px; }
+                  .wrap .wrap-inner main .main-part .box-content .container .contact-top .contact-block-inner ul li .contact-right .caution {
+                    color: red; }
+      .wrap .wrap-inner main aside {
+        float: right;
+        width: 25%;
+        max-width: 300px; }
+        .wrap .wrap-inner main aside .container {
+          border: 1px solid #000;
+          max-width: 300px;
+          width: 100%; }
+          .wrap .wrap-inner main aside .container .side-bar .sidebar-title {
+            background-color: #F8E221;
+            border-bottom: 1px solid #000;
+            padding: 10px 0px;
+            text-align: center; }
+          .wrap .wrap-inner main aside .container .side-bar .side-block {
+            width: 88%;
+            max-width: 260px;
+            margin: 15px auto; }
+            .wrap .wrap-inner main aside .container .side-bar .side-block .side-block-inner .side-zone {
+              margin-bottom: 30px; }
+              .wrap .wrap-inner main aside .container .side-bar .side-block .side-block-inner .side-zone .side-top {
+                margin-bottom: 20px;
+                display: table; }
+                .wrap .wrap-inner main aside .container .side-bar .side-block .side-block-inner .side-zone .side-top .side-zone-title {
+                  display: table-cell;
+                  vertical-align: middle;
+                  padding-left: 13px; }
+                  .wrap .wrap-inner main aside .container .side-bar .side-block .side-block-inner .side-zone .side-top .side-zone-title p {
+                    font-size: 16px;
+                    font-weight: 700; }
+                .wrap .wrap-inner main aside .container .side-bar .side-block .side-block-inner .side-zone .side-top side-icon {
+                  display: table-cell; }
+              .wrap .wrap-inner main aside .container .side-bar .side-block .side-block-inner .side-zone ul li {
+                margin-bottom: 20px;
+                font-size: 15px;
+                padding-left: 50px;
+                position: relative; }
+                .wrap .wrap-inner main aside .container .side-bar .side-block .side-block-inner .side-zone ul li a {
+                  color: #5d5d5d; }
+                .wrap .wrap-inner main aside .container .side-bar .side-block .side-block-inner .side-zone ul li a:hover {
+                  color: #005e9c; }
+              .wrap .wrap-inner main aside .container .side-bar .side-block .side-block-inner .side-zone ul li:before {
+                content: "";
+                width: 10px;
+                border-bottom: 2px solid #5d5d5d;
+                position: absolute;
+                left: 30px;
+                top: 7px; }
+  .wrap .footer {
+    margin-top: 80px;
+    background-color: #F8E221;
+    border: 1px solid #000; }
+    .wrap .footer .container {
+      width: 100%;
+      max-width: 1200px; }
+      .wrap .footer .container .footer-inner .row {
+        font-weight: bold;
+        margin-bottom: 15px; }
+        .wrap .footer .container .footer-inner .row .footer-top {
+          text-align: center;
+          padding-top: 30px;
+          padding-bottom: 35px;
+          font-size: 34px; }
+        .wrap .footer .container .footer-inner .row .footer-list {
+          margin-top: 15px;
+          margin-bottom: 15px;
+          overflow: hidden; }
+          .wrap .footer .container .footer-inner .row .footer-list ul li {
+            text-align: center;
+            font-size: 17px;
+            float: left; }
+            .wrap .footer .container .footer-inner .row .footer-list ul li a {
+              color: #000; }
+        .wrap .footer .container .footer-inner .row .footer-copy p {
+          text-align: center; }
+
+@media screen and (max-width: 1210px) {
+  .is-sp-540 {
+    display: none; }
+
+  .wrap .wrap-inner {
+    width: 100%;
+    max-width: 1100px; }
+    .wrap .wrap-inner main .main-part .box-content .container .box-zone .col-sm-12 {
+      justify-content: space-around; }
+    .wrap .wrap-inner main .main-part .box-content .container .box-zone .box-block .box-block-inner {
+      width: 46%;
+      max-width: 355px; } }
+.result-input {
+  border: none;
+  color: #000;
+  background-color: #fff;
+  padding: 8px 0px;
+  font-size: 22px;
+  width: 200px;
+  transition: 0.3s;
+  border: 1px solid #000;
+  max-width: 200px;
+  width: 46%; }
+
+.result-input02 {
+  margin-left: 15px; }
+
+.result-input:hover {
+  background-color: #000;
+  color: #F8E221; }
+
+.result-input-last {
+  background-color: #FBF3CF;
+  padding: 8px 30px;
+  width: 100%;
+  color: #5d5d5d; }
+
+.result-input-last:hover {
+  text-decoration: none; }
+
+@media screen and (max-width: 768px) {
+  .is-sp-540 {
+    display: none; }
+
+  .wrap .wrap-inner header {
+    margin-bottom: 80px; }
+    .wrap .wrap-inner header .container .header-inner .row .header-top {
+      font-size: 24px; }
+    .wrap .wrap-inner header .container .header-inner .row .header-list ul li {
+      float: none; }
+  .wrap .wrap-inner main .main-part {
+    float: none;
+    width: 100%;
+    margin-bottom: 30px; }
+    .wrap .wrap-inner main .main-part .box-content {
+      border: none; }
+      .wrap .wrap-inner main .main-part .box-content .container {
+        padding-top: 0px;
+        padding-bottom: 0px; }
+        .wrap .wrap-inner main .main-part .box-content .container .box-zone {
+          padding-top: 0px; }
+          .wrap .wrap-inner main .main-part .box-content .container .box-zone .box-title {
+            font-size: 22px;
+            padding-bottom: 40px; }
+          .wrap .wrap-inner main .main-part .box-content .container .box-zone .box-block .box-block-inner {
+            width: 45%;
+            max-width: 768px; }
+            .wrap .wrap-inner main .main-part .box-content .container .box-zone .box-block .box-block-inner .box-heading {
+              font-size: 17px;
+              font-weight: bold; }
+            .wrap .wrap-inner main .main-part .box-content .container .box-zone .box-block .box-block-inner a .box-description {
+              font-size: 15px; }
+        .wrap .wrap-inner main .main-part .box-content .container .citation .citation-inner .citation-title {
+          margin-bottom: 40px; }
+          .wrap .wrap-inner main .main-part .box-content .container .citation .citation-inner .citation-title h2 {
+            font-size: 22px; }
+        .wrap .wrap-inner main .main-part .box-content .container .citation .citation-inner .citatoin-head {
+          margin-bottom: 30px; }
+          .wrap .wrap-inner main .main-part .box-content .container .citation .citation-inner .citatoin-head .citatoin-head-inner .citation-small-title {
+            font-size: 20px; }
+          .wrap .wrap-inner main .main-part .box-content .container .citation .citation-inner .citatoin-head .citatoin-head-inner .citation-example {
+            font-size: 16px; }
+        .wrap .wrap-inner main .main-part .box-content .container .citation .citation-inner .citation-block .citation-block-inner form .citation-block-ex {
+          margin-bottom: 39px; }
+          .wrap .wrap-inner main .main-part .box-content .container .citation .citation-inner .citation-block .citation-block-inner form .citation-block-ex .cbi-left {
+            display: block;
+            width: 100%;
+            margin-bottom: 10px; }
+            .wrap .wrap-inner main .main-part .box-content .container .citation .citation-inner .citation-block .citation-block-inner form .citation-block-ex .cbi-left input {
+              max-width: 768px;
+              width: 100%; }
+          .wrap .wrap-inner main .main-part .box-content .container .citation .citation-inner .citation-block .citation-block-inner form .citation-block-ex .cbi-right {
+            display: block;
+            width: 100%;
+            padding-left: 0px; }
+          .wrap .wrap-inner main .main-part .box-content .container .citation .citation-inner .citation-block .citation-block-inner form .citation-block-ex .citation-btn {
+            margin-bottom: 20px; }
+  .wrap .wrap-inner main aside {
+    float: none;
+    width: 93%;
+    max-width: 693px;
+    margin: 0 auto; }
+    .wrap .wrap-inner main aside .container {
+      width: 100%;
+      max-width: 693px; }
+  .wrap .footer .container .footer-inner .row .footer-list ul li {
+    float: none; }
+
+  .result-input {
+    width: 48%;
+    font-size: 19px; }
+
+  .result-input02 {
+    margin-left: 2%; } }
+@media screen and (max-width: 540px) {
+  .is-sp-540 {
+    display: block; } }
+input:-webkit-autofill,
+input:-webkit-autofill:hover,
+input:-webkit-autofill:focus,
+input:-webkit-autofill:active {
+  -webkit-transition: "color 9999s ease-out, background-color 9999s ease-out";
+  -webkit-transition-delay: 9999s; }
+
+input::placeholder {
+  color: #828282; }
+
+/*# sourceMappingURL=style.css.map */
